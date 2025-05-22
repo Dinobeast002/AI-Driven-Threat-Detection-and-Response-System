@@ -1,5 +1,5 @@
 The following is a Readme for AI-Driven Threat Detection and Response System
 developed over the course of two semesters.
 
-The Sage folder contains final IEEE Research Paper, Poster, and PPT slides created for this project.
+
 
